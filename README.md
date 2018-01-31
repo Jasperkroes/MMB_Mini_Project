@@ -12,3 +12,10 @@ To use this model you should only change the values in Main.java
 To run the model you simply run main.java
 
 The results you will get are represented as a table in the command line.
+
+
+# Disclaimer
+
+This code is written completely by Jasper Kroes.
+
+Jasper Kroes gives permission to everyone to copy this code for personal/professional use as long as they mention that he made this.
