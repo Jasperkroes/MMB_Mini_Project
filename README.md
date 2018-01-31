@@ -17,13 +17,13 @@ The results you will get are represented as a table in the command line.
 
 # Results
 
-[Supressing 0.42 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=804756979)
+[Suppressing 0.42 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=804756979)
 
-[Supressing 0.42 type cells with 2 different cell types](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=493049558)
+[Suppressing 0.42 type cells with 2 different cell types](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=493049558)
 
-[Supressing 0.54 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=1311980249)
+[Suppressing 0.54 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=1311980249)
 
-[Supressing 0.60 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=1130599849)
+[Suppressing 0.60 type cells](https://docs.google.com/spreadsheets/d/1fGIgbCpujtmGeZ7F-2WN_rHMuqBpesAUZ2lKIXdQI04/edit#gid=1130599849)
 
 
 # Disclaimer
