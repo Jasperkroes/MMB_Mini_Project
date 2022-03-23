@@ -1,7 +1,9 @@
+package com.jasper.kroes;
+
 /**
  * Created by Jasper on 25-1-2018.
  */
 public enum State {
-	PROLIFERATION,
-	MIGRATION;
+    PROLIFERATION,
+    MIGRATION
 }

@@ -1,7 +1,7 @@
 # MMB Mini Project - How proliferation/migration rates influence competitiveness between cells
 Made by Jasper Kroes & Rafael Kraaikamp
 
-A Simple LGCA model for proliferation/migration competition between cells
+A Simple main.java.jasper.kroes.LGCA model for proliferation/migration competition between cells
 
 You can read about the research we did here:
 
@@ -9,7 +9,7 @@ You can read about the research we did here:
 
 # USAGE
 
-To use this model you should only change the values in Main.java
+To use this model you should only change the values in main.java.Main.java
 
 To run the model you simply run main.java
 
