@@ -1,0 +1,4 @@
+version: "3"
+services:
+  lgca:
+    image: "jasperkroes/mmb:1.0.1"
