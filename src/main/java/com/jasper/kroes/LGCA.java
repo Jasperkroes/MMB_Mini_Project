@@ -100,9 +100,9 @@ public class LGCA {
                 count = grid[i][j].CountStatesPerType(count);
             }
         }
-        return ("main.java.jasper.kroes.Type A (Proliferation rate = " + prolifA + "):\n\t" + count[0][0] + " proliferation\n\t" + count[0][1] + " migration\n" +
-                "main.java.jasper.kroes.Type B (Proliferation rate = " + prolifB + "):\n\t" + count[1][0] + " proliferation\n\t" + count[1][1] + " migration\n" +
-                "main.java.jasper.kroes.Type C (Proliferation rate = " + prolifC + "):\n\t" + count[2][0] + " proliferation\n\t" + count[2][1] + " migration\n");
+        return ("Type A (Proliferation rate = " + prolifA + "):\n\t" + count[0][0] + " proliferation\n\t" + count[0][1] + " migration\n" +
+                "Type B (Proliferation rate = " + prolifB + "):\n\t" + count[1][0] + " proliferation\n\t" + count[1][1] + " migration\n" +
+                "Type C (Proliferation rate = " + prolifC + "):\n\t" + count[2][0] + " proliferation\n\t" + count[2][1] + " migration\n");
     }
 
     public String toString() {
